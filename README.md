@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hasil Pengujian Alumni Tracking System
 
 ## Identifikasi Pengujian
@@ -27,3 +28,6 @@
 | **10** | Sistem Menyimpan Riwayat Pelacakan | Logging semua aktivitas tracking | Semua hasil tracking | Riwayat tersimpan dengan timestamp | 15 record tracking history tersimpan di database | ✅ |
 
 ---
+=======
+# RK---Daily-Project-3
+>>>>>>> 218135ba5d3950427a158ac832424eddf0ee7f05
