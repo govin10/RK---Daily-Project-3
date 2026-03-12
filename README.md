@@ -7,7 +7,6 @@
 |------|------------|
 | **Nama Sistem** | Alumni Tracking System |
 | **Tanggal Pengujian** | 13 Maret 2026 |
-| **Penguji** | Tim Quality Assurance |
 | **Lingkungan Pengujian** | Laragon + HeidiSQL |
 
 ---
